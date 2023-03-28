@@ -1,0 +1,799 @@
+# Translation of Plugins - WPC Smart Compare for WooCommerce - Stable (latest release) in Ukrainian
+# This file is distributed under the same license as the Plugins - WPC Smart Compare for WooCommerce - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-03-27 04:18:48+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.4\n"
+"Language: uk_UA\n"
+"Project-Id-Version: Plugins - WPC Smart Compare for WooCommerce - Stable (latest release)\n"
+
+#: wpc-smart-compare.php:503
+msgid "The new product will be added to the first or last of the list?"
+msgstr "Новий товар буде додано до переліку першим чи останнім?"
+
+#: wpc-smart-compare.php:501
+msgid "Append"
+msgstr "В кінець"
+
+#: wpc-smart-compare.php:500
+msgid "Prepend"
+msgstr "На початок"
+
+#: wpc-smart-compare.php:497
+msgid "Product adding"
+msgstr "Додавання товару"
+
+#: wpc-smart-compare.php:436
+msgid "Settings updated."
+msgstr "Налаштування оновлено."
+
+#: wpc-smart-compare.php:1608
+msgid "There are no products on the Compare!"
+msgstr "Немає товарів для порівняння!"
+
+#: wpc-smart-compare.php:1127
+msgid "Custom menu action"
+msgstr "Дія власного меню"
+
+#: wpc-smart-compare.php:1119
+msgid "Custom menu"
+msgstr "Власне меню"
+
+#: wpc-smart-compare.php:1285 wpc-smart-compare.php:1287
+#: wpc-smart-compare.php:2184
+msgid "Continue shopping"
+msgstr "Продовжити покупки"
+
+#: wpc-smart-compare.php:1281 wpc-smart-compare.php:2183
+msgid "Let's Compare!"
+msgstr "Давайте порівняємо!"
+
+#: wpc-smart-compare.php:1261 wpc-smart-compare.php:1377
+msgid "Heading"
+msgstr "Заголовок"
+
+#: wpc-smart-compare.php:1170
+msgid "Message"
+msgstr "Повідомлення"
+
+#: wpc-smart-compare.php:1188
+msgid "Exists"
+msgstr "Існує"
+
+#: wpc-smart-compare.php:1181
+msgid "Removed"
+msgstr "Видалено"
+
+#: wpc-smart-compare.php:1177 wpc-smart-compare.php:1184
+#: wpc-smart-compare.php:1191
+msgid "Use {name} for product name."
+msgstr "Використовуйте {name} для назви товару."
+
+#: wpc-smart-compare.php:1174
+msgid "Added"
+msgstr "Додано"
+
+#: wpc-smart-compare.php:937
+msgid "Open immediately"
+msgstr "Відкрити негайно"
+
+#: wpc-smart-compare.php:613
+msgid "left-bottom"
+msgstr "лівий-нижній"
+
+#: wpc-smart-compare.php:612
+msgid "left-top"
+msgstr "лівий-верхній"
+
+#: wpc-smart-compare.php:611
+msgid "center-bottom"
+msgstr "центр-низ"
+
+#: wpc-smart-compare.php:610
+msgid "center-top"
+msgstr "центр-верх"
+
+#: wpc-smart-compare.php:609
+msgid "right-bottom"
+msgstr "центр-верх"
+
+#: wpc-smart-compare.php:608
+msgid "right-top"
+msgstr "центр-верх"
+
+#: wpc-smart-compare.php:605
+msgid "Message position"
+msgstr "Розміщення повідомлення"
+
+#: wpc-smart-compare.php:601
+msgid "Action triggered by clicking on the compare button."
+msgstr "Дія ініціюється натисканням кнопки порівняння."
+
+#: wpc-smart-compare.php:599
+msgid "Add to compare solely"
+msgstr "Додати виключно для порівняння"
+
+#: wpc-smart-compare.php:598
+msgid "Show message"
+msgstr "Показати повідомлення"
+
+#: wpc-smart-compare.php:330 wpc-smart-compare.php:1190
+msgid "{name} is already in the Compare list."
+msgstr "{name} уже є в переліку порівняння."
+
+#: wpc-smart-compare.php:329 wpc-smart-compare.php:1183
+msgid "{name} has been removed from the Compare list."
+msgstr "{name} видалено з переліку порівняння."
+
+#: wpc-smart-compare.php:328 wpc-smart-compare.php:1176
+msgid "{name} has been added to Compare list."
+msgstr "{name} додано до переліку порівняння."
+
+#: wpc-smart-compare.php:2422
+msgid "Facebook"
+msgstr "Facebook"
+
+#: wpc-smart-compare.php:2425
+msgid "Mail"
+msgstr "Пошта"
+
+#: wpc-smart-compare.php:2424
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: wpc-smart-compare.php:2423
+msgid "Twitter"
+msgstr "Twitter"
+
+#: wpc-smart-compare.php:1361
+msgid "Share link was copied"
+msgstr "Посилання для спільного доступу скопійовано"
+
+#: wpc-smart-compare.php:1357 wpc-smart-compare.php:2430
+msgid "Share on:"
+msgstr "Поділитися на:"
+
+#: wpc-smart-compare.php:1355
+msgid "Share on"
+msgstr "Поділитися на"
+
+#: wpc-smart-compare.php:1351 wpc-smart-compare.php:2383
+msgid "Share link was generated! Now you can copy below link to share."
+msgstr "Посилання для спільного використання створено! Тепер ви можете скопіювати посилання нижче, щоб поділитися."
+
+#: wpc-smart-compare.php:1349
+msgid "Share description"
+msgstr "Поділитися описом"
+
+#: wpc-smart-compare.php:1343 wpc-smart-compare.php:1345
+#: wpc-smart-compare.php:2152
+msgid "Share"
+msgstr "Поділитися"
+
+#: wpc-smart-compare.php:970
+msgid "Show the share button."
+msgstr "Показати кнопку спільного доступу."
+
+#: wpc-smart-compare.php:343 wpc-smart-compare.php:1363
+msgid "Share link %s was copied to clipboard!"
+msgstr "Посилання для спільного доступу %s скопійовано в буфер обміну!"
+
+#: wpc-smart-compare.php:964
+msgid "\"Share\" button"
+msgstr "Кнопка \"Поділитися\""
+
+#: wpc-smart-compare.php:875 wpc-smart-compare.php:1245
+#: wpc-smart-compare.php:1247 wpc-smart-compare.php:2087
+msgid "Highlight differences"
+msgstr "Виділіть відмінності"
+
+#: wpc-smart-compare.php:872 wpc-smart-compare.php:1239
+#: wpc-smart-compare.php:1241 wpc-smart-compare.php:2084
+msgid "Hide similarities"
+msgstr "Приховати схожість"
+
+#: wpc-smart-compare.php:1217 wpc-smart-compare.php:1674
+msgid "remove"
+msgstr "видалити"
+
+#: wpc-smart-compare.php:887
+msgid "Show remove button beside product name."
+msgstr "Показати кнопку видалення біля назви товару."
+
+#: wpc-smart-compare.php:881
+msgid "\"Remove\" button"
+msgstr "Кнопка \"Видалити\""
+
+#: wpc-smart-compare.php:652
+msgid "Position on single page"
+msgstr "Розмістити на одній сторінці"
+
+#: wpc-smart-compare.php:633 wpc-smart-compare.php:660
+msgid "Above add to cart button"
+msgstr "Над кнопкою «Додати в кошик»"
+
+#: wpc-smart-compare.php:625
+msgid "Position on archive page"
+msgstr "Розмістити на сторінці архіву"
+
+#: wpc-smart-compare.php:634 wpc-smart-compare.php:661
+msgid "Under add to cart button"
+msgstr "Під кнопкою \"Додати в кошик\""
+
+#: wpc-smart-compare.php:393
+msgid "Community support"
+msgstr "Підтримка користувачив"
+
+#: wpc-smart-compare.php:1487
+msgid "Menu item label"
+msgstr "Мітка пункту меню"
+
+#: wpc-smart-compare.php:1367
+msgid "Click outside"
+msgstr "Натисніть назовні"
+
+#: wpc-smart-compare.php:1251
+msgid "Select fields description"
+msgstr "Виберіть опис полів"
+
+#: wpc-smart-compare.php:1331
+msgid "Remove all confirmation"
+msgstr "Видалити всі підтвердження"
+
+#: wpc-smart-compare.php:1215 wpc-smart-compare.php:1273
+#: wpc-smart-compare.php:1275 wpc-smart-compare.php:1319
+#: wpc-smart-compare.php:1321 wpc-smart-compare.php:1560
+#: wpc-smart-compare.php:1598
+msgid "Remove"
+msgstr "Видалити"
+
+#: wpc-smart-compare.php:1313
+msgid "No results"
+msgstr "Немає результатів"
+
+#: wpc-smart-compare.php:1307
+msgid "Search placeholder"
+msgstr "Шукати введене"
+
+#: wpc-smart-compare.php:1227
+msgid "Empty"
+msgstr "Порожній"
+
+#: wpc-smart-compare.php:1205
+msgid "Button (added) text"
+msgstr "Текст кнопки (додано)"
+
+#: wpc-smart-compare.php:1166
+msgid "The notice when reaching the limit. Use {limit} to show the number."
+msgstr "Повідомлення про досягнення ліміту. Використовуйте {limit}, щоб показати число."
+
+#: wpc-smart-compare.php:1159
+msgid "Leave blank to use the default text and its equivalent translation in multiple languages."
+msgstr "Залиште порожнім, щоб використовувати початковий текст та його переклад кількома мовами."
+
+#: wpc-smart-compare.php:445
+msgid "Localization"
+msgstr "Переклад"
+
+#: wpc-smart-compare.php:917
+msgid "Read more about %s"
+msgstr "Докладніше про %s"
+
+#: wpc-smart-compare.php:911
+msgid "Use perfect-scrollbar"
+msgstr "Використовуйте ідеальну смугу прокрутки"
+
+#: wpc-smart-compare.php:1301 wpc-smart-compare.php:1303
+#: wpc-smart-compare.php:2156
+msgid "Add product"
+msgstr "Додати товар"
+
+#: wpc-smart-compare.php:1221 wpc-smart-compare.php:1223
+#: wpc-smart-compare.php:1267 wpc-smart-compare.php:1269
+#: wpc-smart-compare.php:2134 wpc-smart-compare.php:2179
+msgid "Close"
+msgstr "Закрити"
+
+#: wpc-smart-compare.php:1309 wpc-smart-compare.php:2063
+msgid "Type any keyword to search..."
+msgstr "Введіть будь-яке ключове слово для пошуку..."
+
+#: wpc-smart-compare.php:1315 wpc-smart-compare.php:1955
+msgid "No results found for \"%s\""
+msgstr "Не знайдено результатів для \"%s\""
+
+#: wpc-smart-compare.php:1115
+msgid "Action when clicking on the \"compare menu\"."
+msgstr "Дія при натисканні на \"Меню порівняння\"."
+
+#: wpc-smart-compare.php:592 wpc-smart-compare.php:1108
+msgid "Action"
+msgstr "Дія"
+
+#: wpc-smart-compare.php:1101
+msgid "Haven't any menu yet. Please go to Appearance > Menus to create one."
+msgstr "Меню ще немає. Будь ласка, перейдіть до Вигляд > Меню, щоб його створити."
+
+#: wpc-smart-compare.php:1085
+msgid "Menu(s)"
+msgstr "Меню"
+
+#: wpc-smart-compare.php:1080 wpc-smart-compare.php:1483
+msgid "Menu"
+msgstr "Меню"
+
+#: wpc-smart-compare.php:1039
+msgid "Yes if empty"
+msgstr "Так, якщо порожній"
+
+#: wpc-smart-compare.php:1026
+msgid "Align"
+msgstr "Вирівняти"
+
+#: wpc-smart-compare.php:1009
+msgid "Button color"
+msgstr "Колір кнопки"
+
+#: wpc-smart-compare.php:1199 wpc-smart-compare.php:1279
+#: wpc-smart-compare.php:1295
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: wpc-smart-compare.php:1001
+msgid "Background color"
+msgstr "Колір фону"
+
+#: wpc-smart-compare.php:991
+msgid "\"Remove all\" button"
+msgstr "Кнопка \"Видалити все\""
+
+#: wpc-smart-compare.php:974
+msgid "\"Add more\" button"
+msgstr "Кнопка \"Додати ще\""
+
+#: wpc-smart-compare.php:859
+msgid "\"Settings\" button"
+msgstr "Кнопка \"Налаштування\""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr "https://wpclever.net/"
+
+#. Description of the plugin
+msgid "Smart products compare for WooCommerce."
+msgstr "Розумне порівняння товарів для WooCommerce."
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr "https://wpclever.net"
+
+#: wpc-smart-compare.php:153 wpc-smart-compare.php:1393
+#: wpc-smart-compare.php:1395
+msgid "Image"
+msgstr "Зображення"
+
+#: wpc-smart-compare.php:156 wpc-smart-compare.php:1411
+#: wpc-smart-compare.php:1413
+msgid "Price"
+msgstr "Ціна"
+
+#: wpc-smart-compare.php:158 wpc-smart-compare.php:1423
+#: wpc-smart-compare.php:1425
+msgid "Availability"
+msgstr "Доступність"
+
+#: wpc-smart-compare.php:160 wpc-smart-compare.php:1435
+#: wpc-smart-compare.php:1437
+msgid "Description"
+msgstr "Опис"
+
+#: wpc-smart-compare.php:161 wpc-smart-compare.php:1441
+#: wpc-smart-compare.php:1443
+msgid "Content"
+msgstr "Вміст"
+
+#: wpc-smart-compare.php:162 wpc-smart-compare.php:1447
+#: wpc-smart-compare.php:1449
+msgid "Weight"
+msgstr "Вага"
+
+#: wpc-smart-compare.php:163 wpc-smart-compare.php:1453
+#: wpc-smart-compare.php:1455
+msgid "Dimensions"
+msgstr "Розміри"
+
+#: wpc-smart-compare.php:341 wpc-smart-compare.php:1333
+msgid "Do you want to remove all products from the compare?"
+msgstr "Ви хочете видалити всі товари з порівняння?"
+
+#: wpc-smart-compare.php:376 wpc-smart-compare.php:442
+#: wpc-smart-compare.php:1233 wpc-smart-compare.php:1235
+#: wpc-smart-compare.php:1768
+msgid "Settings"
+msgstr "Налаштування"
+
+#: wpc-smart-compare.php:427
+msgid "Reviews"
+msgstr "Відгуки"
+
+#: wpc-smart-compare.php:428
+msgid "Changelog"
+msgstr "Журнал змін"
+
+#: wpc-smart-compare.php:429
+msgid "Discussion"
+msgstr "Обговорення"
+
+#: wpc-smart-compare.php:507
+msgid "Hide on cart & checkout page"
+msgstr "Приховувати на сторінці кошика та оформлення замовлення"
+
+#: wpc-smart-compare.php:510 wpc-smart-compare.php:520
+#: wpc-smart-compare.php:714 wpc-smart-compare.php:862
+#: wpc-smart-compare.php:884 wpc-smart-compare.php:894
+#: wpc-smart-compare.php:904 wpc-smart-compare.php:914
+#: wpc-smart-compare.php:924 wpc-smart-compare.php:947
+#: wpc-smart-compare.php:957 wpc-smart-compare.php:967
+#: wpc-smart-compare.php:977 wpc-smart-compare.php:994
+#: wpc-smart-compare.php:1038 wpc-smart-compare.php:1054
+msgid "Yes"
+msgstr "Так"
+
+#: wpc-smart-compare.php:511 wpc-smart-compare.php:521
+#: wpc-smart-compare.php:567 wpc-smart-compare.php:715
+#: wpc-smart-compare.php:854 wpc-smart-compare.php:863
+#: wpc-smart-compare.php:885 wpc-smart-compare.php:895
+#: wpc-smart-compare.php:905 wpc-smart-compare.php:915
+#: wpc-smart-compare.php:925 wpc-smart-compare.php:948
+#: wpc-smart-compare.php:958 wpc-smart-compare.php:968
+#: wpc-smart-compare.php:978 wpc-smart-compare.php:995
+#: wpc-smart-compare.php:1040 wpc-smart-compare.php:1055
+msgid "No"
+msgstr "Ні"
+
+#: wpc-smart-compare.php:517
+msgid "Hide if empty"
+msgstr "Приховувати, якщо порожній"
+
+#: wpc-smart-compare.php:527
+msgid "Limit"
+msgstr "Ліміт"
+
+#: wpc-smart-compare.php:1163
+msgid "Limit notice"
+msgstr "Повідомлення про ліміт"
+
+#: wpc-smart-compare.php:539
+msgid "Choose a page"
+msgstr "Виберіть сторінку"
+
+#: wpc-smart-compare.php:1122
+msgid "Example %s or %s"
+msgstr "Наприклад %s або %s"
+
+#: wpc-smart-compare.php:742 wpc-smart-compare.php:1383
+msgid "Fields"
+msgstr "Поля"
+
+#: wpc-smart-compare.php:824
+msgid "Image size"
+msgstr "Розмір зображення"
+
+#: wpc-smart-compare.php:891
+msgid "Freeze first column"
+msgstr "Закріпити першу колонку"
+
+#: wpc-smart-compare.php:901
+msgid "Freeze first row"
+msgstr "Закріпити перший рядок"
+
+#: wpc-smart-compare.php:907
+msgid "Freeze the first row (product name) when scrolling vertically."
+msgstr "Закріпити перший рядок (назва товару) під час вертикального прокручування."
+
+#: wpc-smart-compare.php:921
+msgid "Close button"
+msgstr "Кнопка закриття"
+
+#: wpc-smart-compare.php:547 wpc-smart-compare.php:1195
+msgid "Compare button"
+msgstr "Кнопка порівняння"
+
+#: wpc-smart-compare.php:552
+msgid "Type"
+msgstr "Тип"
+
+#: wpc-smart-compare.php:555
+msgid "Button"
+msgstr "Кнопка"
+
+#: wpc-smart-compare.php:556
+msgid "Link"
+msgstr "Посилання"
+
+#: wpc-smart-compare.php:344 wpc-smart-compare.php:345
+#: wpc-smart-compare.php:1201 wpc-smart-compare.php:1207
+#: wpc-smart-compare.php:1263 wpc-smart-compare.php:1297
+#: wpc-smart-compare.php:1489 wpc-smart-compare.php:2004
+#: wpc-smart-compare.php:2170 wpc-smart-compare.php:2177
+#: wpc-smart-compare.php:2269
+msgid "Compare"
+msgstr "Порівняти"
+
+#: wpc-smart-compare.php:618
+msgid "Extra class (optional)"
+msgstr "Додатковий клас (за бажанням)"
+
+#: wpc-smart-compare.php:621
+msgid "Add extra class for action button/link, split by one space."
+msgstr "Додайте додатковий клас для кнопки/посилання дії, розділяючи одним пропуском."
+
+#: wpc-smart-compare.php:687
+msgid "Categories"
+msgstr "Категорії"
+
+#: wpc-smart-compare.php:702
+msgid "All categories"
+msgstr "Всі категорії"
+
+#: wpc-smart-compare.php:711
+msgid "Remove when clicking again"
+msgstr "Видалити при повторному натисканні"
+
+#: wpc-smart-compare.php:865
+msgid "Show the settings popup to customize fields (show/ hide / rearrange)."
+msgstr "Показати виринаюче вікно налаштувань, щоб налаштувати поля (показати/приховати/змінити)."
+
+#: wpc-smart-compare.php:984
+msgid "\"Add more\" count"
+msgstr "Підрахунок \"Додати ще\""
+
+#: wpc-smart-compare.php:987
+msgid "The result count of search function when clicking on \"Add more\" button."
+msgstr "Підрахунок результатів пошуку при натисканні на кнопку \"Додати ще\"."
+
+#: wpc-smart-compare.php:997
+msgid "Add the button to remove all products from compare immediately."
+msgstr "Додайте кнопку негайного видалення всіх товарів з порівняння."
+
+#: wpc-smart-compare.php:1020
+msgid "Bottom"
+msgstr "Знизу"
+
+#: wpc-smart-compare.php:1021
+msgid "Top"
+msgstr "Зверху"
+
+#: wpc-smart-compare.php:730 wpc-smart-compare.php:1029
+msgid "Right"
+msgstr "Праворуч"
+
+#: wpc-smart-compare.php:731 wpc-smart-compare.php:1030
+msgid "Left"
+msgstr "Ліворуч"
+
+#: wpc-smart-compare.php:1035
+msgid "Click outside to hide"
+msgstr "Натисніть назовні, щоб приховати"
+
+#: wpc-smart-compare.php:1104
+msgid "Choose the menu(s) you want to add the \"compare menu\" at the end."
+msgstr "Виберіть меню, в кінець якого потрібно додати \"Меню порівняння\"."
+
+#: wpc-smart-compare.php:1253 wpc-smart-compare.php:2090
+msgid "Select the fields to be shown. Others will be hidden. Drag and drop to rearrange the order."
+msgstr "Виберіть поля, які потрібно відобразити. Інші будуть приховані. Перетягніть, щоб змінити порядок."
+
+#: wpc-smart-compare.php:1325 wpc-smart-compare.php:1327
+#: wpc-smart-compare.php:2162
+msgid "Remove all"
+msgstr "Видалити все"
+
+#: wpc-smart-compare.php:944
+msgid "Bubble"
+msgstr "Підказка"
+
+#: wpc-smart-compare.php:663
+msgid "Under sharing"
+msgstr "Під доступом"
+
+#: wpc-smart-compare.php:662
+msgid "Under meta"
+msgstr "Під метою"
+
+#: wpc-smart-compare.php:659
+msgid "Under excerpt"
+msgstr "Під уривком"
+
+#: wpc-smart-compare.php:635 wpc-smart-compare.php:664
+msgid "None (hide it)"
+msgstr "Немає (приховати)"
+
+#: wpc-smart-compare.php:632
+msgid "Under price"
+msgstr "Під ціною"
+
+#: wpc-smart-compare.php:631 wpc-smart-compare.php:658
+msgid "Under rating"
+msgstr "Під рейтингом"
+
+#: wpc-smart-compare.php:630 wpc-smart-compare.php:657
+msgid "Under title"
+msgstr "Під заголовком"
+
+#: wpc-smart-compare.php:853
+msgid "Yes, open quick view popup"
+msgstr "Так, відкрити виринаюче вікно швидкого перегляду"
+
+#: wpc-smart-compare.php:852
+msgid "Yes, open in the new tab"
+msgstr "Так, відкрити в новій вкладці"
+
+#: wpc-smart-compare.php:851
+msgid "Yes, open in the same tab"
+msgstr "Так, відкрити в тій же вкладці"
+
+#: wpc-smart-compare.php:848
+msgid "Link to individual product"
+msgstr "Посилання на окремий товар"
+
+#: wpc-smart-compare.php:1121
+msgid "button class or id"
+msgstr "клас CSS або ID кнопки"
+
+#: wpc-smart-compare.php:377 wpc-smart-compare.php:448
+msgid "Premium Version"
+msgstr "Преміум-версія"
+
+#: includes/wpc-kit.php:347
+msgid "%s ago"
+msgstr "%s тому"
+
+#: includes/wpc-kit.php:346
+msgid "Last Updated:"
+msgstr "Останнє оновлення:"
+
+#: includes/wpc-kit.php:340
+msgid "+ Active Installations"
+msgstr "+ Активні інсталяції"
+
+#: includes/wpc-kit.php:334
+msgid "Version"
+msgstr "Версія"
+
+#: includes/wpc-kit.php:270
+msgid "More Details"
+msgstr "Детальніше"
+
+#: includes/wpc-kit.php:268
+msgid "More information about %s"
+msgstr "Більше інформації про %s"
+
+#: includes/wpc-kit.php:261
+msgid "Install Now"
+msgstr "Встановити зараз"
+
+#: includes/wpc-kit.php:254 includes/wpc-kit.php:306
+msgid "Activate"
+msgstr "Активувати"
+
+#: includes/wpc-kit.php:247 includes/wpc-kit.php:299
+msgid "Deactivate"
+msgstr "Вимкнути"
+
+#: includes/wpc-kit.php:153 wpc-smart-compare.php:451
+msgid "Essential Kit"
+msgstr "Essential Kit"
+
+#: includes/wpc-kit.php:153
+msgid "WPC Essential Kit"
+msgstr "WPC Essential Kit"
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr "WPClever"
+
+#: wpc-smart-compare.php:425
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr "Дякуємо за використання нашого плагіна! Якщо він вам подобається, будь ласка, призначте йому оцінку у п’ять зірок %s."
+
+#: wpc-smart-compare.php:154 wpc-smart-compare.php:1399
+#: wpc-smart-compare.php:1401
+msgid "SKU"
+msgstr "Артикул"
+
+#: wpc-smart-compare.php:727 wpc-smart-compare.php:1017
+#: wpc-smart-compare.php:1060
+msgid "Position"
+msgstr "Позиція"
+
+#: wpc-smart-compare.php:980
+msgid "Add the button to search product and add to compare list immediately."
+msgstr "Додайте кнопку для пошуку товару та негайного додання до переліку порівняння."
+
+#: wpc-smart-compare.php:717
+msgid "Do you want to remove product when clicking again?"
+msgstr "Ви хочете видалити товар при повторному натисканні?"
+
+#: wpc-smart-compare.php:707
+msgid "Only show the compare button for products in selected categories."
+msgstr "Показувати кнопку порівняння лише для товарів у вибраних категоріях."
+
+#: wpc-smart-compare.php:683
+msgid "You can use the shortcode %s, eg. %s for the product with ID is 99."
+msgstr "Ви можете використовувати короткий код %s, напр. %s для товару з ID, який дорівнює 99."
+
+#: wpc-smart-compare.php:681
+msgid "Manual"
+msgstr "Інструкція"
+
+#: wpc-smart-compare.php:159 wpc-smart-compare.php:1429
+#: wpc-smart-compare.php:1431
+msgid "Add to cart"
+msgstr "Додати в кошик"
+
+#: wpc-smart-compare.php:157 wpc-smart-compare.php:1417
+#: wpc-smart-compare.php:1419
+msgid "Stock"
+msgstr "Запаси"
+
+#: wpc-smart-compare.php:155 wpc-smart-compare.php:1405
+#: wpc-smart-compare.php:1407
+msgid "Rating"
+msgstr "Рейтинг"
+
+#: wpc-smart-compare.php:897
+msgid "Freeze the first column (fields and attributes title) when scrolling horizontally."
+msgstr "Закріпити першу колонку (назва полів і характеристик) під час горизонтального прокручування."
+
+#: wpc-smart-compare.php:816
+msgid "Add custom field names/slugs and labels, split by a comma."
+msgstr "Додайте власні поля назв/частин посилання та міток, розділені комою."
+
+#: wpc-smart-compare.php:805
+msgid "Add custom attribute names, split by a comma."
+msgstr "Додайте назви власних характеристик, розділені комою."
+
+#: wpc-smart-compare.php:1134
+msgid "Action when clicking on the \"custom menu\"."
+msgstr "Дія при натисканні на \"Власну кнопку\"."
+
+#: wpc-smart-compare.php:493 wpc-smart-compare.php:1157
+msgid "General"
+msgstr "Загальні"
+
+#: wpc-smart-compare.php:411
+msgid "Smart Compare"
+msgstr "Порівняння"
+
+#: wpc-smart-compare.php:411 wpc-smart-compare.php:422
+msgid "WPC Smart Compare"
+msgstr "WPC розумне порівняння товарів"
+
+#: wpc-smart-compare.php:167 wpc-smart-compare.php:813
+#: wpc-smart-compare.php:1477 wpc-smart-compare.php:1479
+msgid "Custom fields"
+msgstr "Власні поля"
+
+#: wpc-smart-compare.php:166 wpc-smart-compare.php:802
+#: wpc-smart-compare.php:1471 wpc-smart-compare.php:1473
+msgid "Custom attributes"
+msgstr "Власні характеристики"
+
+#: wpc-smart-compare.php:165 wpc-smart-compare.php:771
+#: wpc-smart-compare.php:1465 wpc-smart-compare.php:1467
+msgid "Attributes"
+msgstr "Характеристики"
+
+#: wpc-smart-compare.php:164 wpc-smart-compare.php:1459
+#: wpc-smart-compare.php:1461
+msgid "Additional information"
+msgstr "Характеристики"
+
+#. Plugin Name of the plugin
+msgid "WPC Smart Compare for WooCommerce"
+msgstr "WPC Smart Compare for WooCommerce"

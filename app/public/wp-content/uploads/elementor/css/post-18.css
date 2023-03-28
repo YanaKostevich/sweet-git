@@ -1,0 +1,14 @@
+.elementor-18 .elementor-element.elementor-element-e8ef6d1{padding:85px 0px 60px 0px;}.elementor-18 .elementor-element.elementor-element-03a6023{padding:0px 0px 85px 0px;}.elementor-18 .elementor-element.elementor-element-3d212d3 .ct-heading{text-align:center;}.elementor-18 .elementor-element.elementor-element-3d212d3 .ct-heading .item--title{margin-bottom:0px;}.elementor-18 .elementor-element.elementor-element-3d212d3 > .elementor-widget-container{margin:0px 0px 42px 0px;padding:0% 18% 0% 18%;}@media(max-width:1024px){.elementor-18 .elementor-element.elementor-element-3d212d3 > .elementor-widget-container{padding:0% 10% 0% 10%;}}@media(max-width:767px){.elementor-18 .elementor-element.elementor-element-e8ef6d1{z-index:0;}.elementor-18 .elementor-element.elementor-element-3d212d3 .ct-heading .item--title{font-size:32px;}.elementor-18 .elementor-element.elementor-element-3d212d3 > .elementor-widget-container{padding:0px 0px 0px 0px;}}@media(min-width:768px){.elementor-18 .elementor-element.elementor-element-30a48ad{width:16%;}.elementor-18 .elementor-element.elementor-element-593d7e6{width:67.332%;}.elementor-18 .elementor-element.elementor-element-519eb78{width:16%;}}/* Start custom CSS for ct_fancy_box, class: .elementor-element-7b53afb */.contact_for_business, .elementor-widget-container, .ct-fancy-box, .item--inner{
+    height: 100%;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-e8ef6d1 */.contact_for_business, .elementor-widget-container, .ct-fancy-box, .item--inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+    
+    @media (max-width: 767px){
+        .elementor-18 .elementor-element.elementor-element-e8ef6d1{
+        padding: 10px 0;
+    }
+    }/* End custom CSS */

@@ -1,0 +1,65 @@
+[28-Mar-2023 02:53:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 02:58:21 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 03:05:31 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 03:09:40 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 14:17:51 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 14:22:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 14:22:53 UTC] PHP Parse error:  syntax error, unexpected identifier "M", expecting ")" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/constants.php on line 93
+[28-Mar-2023 14:22:59 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "AI1WM_MAX_FILE_SIZE" in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php:277
+Stack trace:
+#0 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(308): Ai1wmue_Main_Controller->enqueue_import_scripts_and_styles('all-in-one-wp-m...')
+#1 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters(NULL, Array)
+#2 /Users/jane_kost/Local Sites/sweet/app/public/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#3 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin-header.php(118): do_action('admin_enqueue_s...', 'all-in-one-wp-m...')
+#4 /Users/jane_kost/Local Sites/sweet/app/public/wp-admin/admin.php(239): require_once('/Users/jane_kos...')
+#5 {main}
+  thrown in /Users/jane_kost/Local Sites/sweet/app/public/wp-content/plugins/all-in-one-wp-migration-unlimited-extension/lib/controller/class-ai1wmue-main-controller.php on line 277
+[28-Mar-2023 14:37:40 UTC] Błąd ponownego ustawienia zdarzenia harmonogramu cron dla uchwytu: action_scheduler_run_queue, kod błędu: invalid_schedule, komunikat błędu: Harmonogram wydarzeń nie istnieje., dane: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
